@@ -1,3 +1,3 @@
 # starturl.github.io
 
-123123123
+This is a project to help link jump.
